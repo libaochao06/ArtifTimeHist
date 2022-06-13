@@ -1,0 +1,12 @@
+//
+// Created by 李保超 on 2022/6/14.
+//
+
+#ifndef ARTIFTIMEHIST_GLOBALDEFINES_H
+#define ARTIFTIMEHIST_GLOBALDEFINES_H
+
+#include <vector>
+
+
+
+#endif //ARTIFTIMEHIST_GLOBALDEFINES_H

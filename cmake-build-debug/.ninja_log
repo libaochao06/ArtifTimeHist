@@ -1,0 +1,8 @@
+# ninja log v5
+1	334	1655157118498250786	CMakeFiles/ArtifTimeHist.dir/src/main.cpp.o	a525581386fa0f44
+327	358	1655156964431444770	ArtifTimeHist	23eef07b8b08444f
+2	296	1655157735896029856	CMakeFiles/ArtifTimeHist.dir/src/Spectrum.cpp.o	9f8795f25477a150
+296	324	1655157735925834055	ArtifTimeHist	cf61e9e3abbfeed8
+2	344	1655158703867343270	CMakeFiles/ArtifTimeHist.dir/src/Spectrum.cpp.o	9f8795f25477a150
+3	381	1655158703905018342	CMakeFiles/ArtifTimeHist.dir/src/main.cpp.o	a525581386fa0f44
+381	413	1655158703938650150	ArtifTimeHist	cf61e9e3abbfeed8
